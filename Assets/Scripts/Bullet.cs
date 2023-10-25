@@ -9,6 +9,7 @@ public class Bullet : MonoBehaviour
     public Transform parent;
     public Rigidbody2D monRigidBody;
     public Rigidbody2D RBEnnemies;
+    public Rigidbody2D RBEnnemies2;
     public float speed;
     
     // Start is called before the first frame update
